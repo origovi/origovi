@@ -29,6 +29,8 @@ The other proposed system [Urimits](https://github.com/origovi/urimits) is a tra
 
 This project obtained a grade of 9.5/10.
 
+After completing my thesis, I continued working for the team and I programmed [Urinay](https://github.com/origovi/urinay), a track limits algorithm that takes a completely different approach than [Urimits](https://github.com/origovi/urimits) and gives much more appealing results using Delaunay triangulation!
+
 # My commitment
 From the experience obtained at university and in the Formula Student team, my main interest are driverless vehicles.
 Autonomous driving has a lot of advantages compared to manual driving and is my desire to contribute to society with advancements in this field.
