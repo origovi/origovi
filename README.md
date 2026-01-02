@@ -6,12 +6,10 @@ Please check out [my LinkedIn](https://www.linkedin.com/in/oriol-gorriz/) for mo
 👨‍💻 I'm a spanish guy who started programming very young and has a lot of passion for the potential that software has to revolutionize society.\
 🏠 I live in a town near Barcelona (Spain).\
 🚴‍♂️ My favourite sport is cycling.\
-🚗 Experience with computer vision applied to cars and path planning.
+🚗 Experience with computer vision and path planning applied to cars.\
 🧠 I'm very interested in autoregressive Language Models and the future architecture changes that might enable AGI.
 
-# Studies & more
-After completing a **Baccalaureate** oriented in science and technology with a 8.67/10 final grade, my final work already aimed to a specific field of study.
-The work was about controlling a robotic arm using a Microsoft Kinect programmed using Processing and Arduino (grade 10/10).
+After completing a Science and Technology–oriented **Baccalaureate**, I pursued early specialization in robotics and applied computing. My final project focused on controlling a robotic arm using a Microsoft Kinect, integrating computer vision–based object recognition with Arduino-based actuation, developed using Processing and Arduino. The project received a final grade of 10/10 and marked my first hands-on experience in robotics, perception, and real-time system control.
 
 Then, I started a **bachelor's degree in Computer Engineering** at [UPC](https://www.upc.edu/en) (Technical University of Catalonia, 240 ECTS).\
 I could not have chosen better, I loved everything we did!\
