@@ -4,7 +4,6 @@ Please check out [my LinkedIn](https://www.linkedin.com/in/oriol-gorriz/) for mo
 
 # About me
 👨‍💻 I'm a spanish guy who started programming very young and has a lot of passion for the potential that software has to revolutionize society.\
-🏠 I live in a town near Barcelona (Spain).\
 🚴‍♂️ My favourite sport is cycling.\
 🚗 Experience with computer vision and path planning applied to cars.\
 🧠 I'm very interested in autoregressive Language Models and the future architecture changes that might enable AGI.
@@ -33,10 +32,10 @@ The key learnings are:
 
 My semester thesis is about neural image compression. By conditioning compression not only on the input image but also on its object features, our method achieves a lower distortion on Regions of Interest (ROIs), effectively shifting bitrate from non-ROIs to ROIs. This is particularly relevant in teleoperated driving imagery. See the [repo](https://github.com/origovi/roi-aware-neural-compression).
 
-My master's thesis optimizes the load balancing of distributed LLM inference. Our framework is built on top of [llama.cpp](https://github.com/ggml-org/llama.cpp) and boosts generation throughput on heterogeneous industrial edge devices.
+My master's thesis optimizes the load balancing of distributed LLM inference. Our framework is built on top of [llama.cpp](https://github.com/ggml-org/llama.cpp) and boosts generation throughput on heterogeneous edge devices.
 
 # Formula Student Driverless: My Life-Changing Experience
-While studying, I decided to join my university's [Formula Student](https://en.wikipedia.org/wiki/Formula_Student) team ([BCN eMotorsport](https://bcnemotorsport.upc.edu)). There I learnt to plan, develop and finish projects and the importance of a well-coordinated team. Later on, I became the head of the perception department of our driverless car. My job was to ensure that our perception system met the requirements in order to run as fast as possible while developing components for the perception software stack.
+While studying, I decided to join my university's [Formula Student](https://en.wikipedia.org/wiki/Formula_Student) team ([BCN eMotorsport](https://bcnemotorsport.upc.edu)). There I learnt to plan, develop and finish projects and the importance of a well-coordinated team. Later on, I became the head of the perception department for our driverless car. My job was to ensure that our perception system met the requirements in order to run as fast as possible while developing components for the perception software stack.
 
 My bachelor's thesis consisted of two systems that later were used in the car during the competitions:
 - One of the proposed systems [CCAT](https://github.com/origovi/CCAT) is about creating a statistical model to sensor fuse the cameras and the LiDAR in order to obtain classified cones and keep track of them.
